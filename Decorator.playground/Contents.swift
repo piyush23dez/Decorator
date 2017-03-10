@@ -51,10 +51,6 @@ let superMarioInterface = SuperMario(interface: marioInterface)
 //superMarioInterface.setup()
 
 
-
-
-
-
 struct YoshiDecorator: GameInterface {
     
     let interface: GameInterface
